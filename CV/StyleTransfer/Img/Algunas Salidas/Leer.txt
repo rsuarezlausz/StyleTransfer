@@ -1,0 +1,8 @@
+El nombre de los archivos indica los valores utlizados como parametros en las loss.
+
+EJ:
+
+N_XX_CXX_SXX_TXX
+
+Donde las C, S y T indican que son los paremetros de Content, Style y Total Variational respectivamente y los
+XX representan el valor del parametro utilizado.
